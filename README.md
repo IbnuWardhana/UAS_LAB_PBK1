@@ -1,5 +1,7 @@
 # UAS_LAB_PBK1
-
+nama : Ibnuwardhana
+npm :213510414
+jaga jaga
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
